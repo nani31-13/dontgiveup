@@ -9,7 +9,7 @@ function App() {
 	const checkPassword = (event) => {
 		event.preventDefault();
 
-		if (password === 'd') {
+		if (password === 'dont give up') {
 			setIsVerified(true);
 		}
 	};
